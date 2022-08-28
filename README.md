@@ -1,5 +1,5 @@
 # Resolucao-de-exercicios-sobre-entrada-e-saida-de-dados-e-variaveis
-##Primeira lista de exercícios do programa 1000devs da Mesttra em parceria com a Johnson&Johnson, o qual visa formar desenvolvedores back-end
+## Primeira lista de exercícios do programa 1000devs da Mesttra em parceria com a Johnson&Johnson, o qual visa formar desenvolvedores back-end
 
 1 - Uma imobiliária vende apenas terrenos retangulares. Faça um algoritmo para imprimir a área do terreno e o valor de venda do mesmo. Para isto será necessário o 
 usuário informar as dimensões em metros (frente e lateral) do terreno além do valor cobrado pelo metro quadrado.
